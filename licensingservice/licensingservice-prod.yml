@@ -1,4 +1,4 @@
-mple.property: "I AM A PROD PROPERTY OVERRIDE"
+example.property: "I AM A PROD PROPERTY OVERRIDE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
@@ -11,4 +11,4 @@ spring.datasource.validationQuery: "SELECT 1"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
 redis.server: "redis"
 redis.port: "6379"
-signing.key: "345345fsdfsf5345"
+signing.key: "345345fsdfsf5345
